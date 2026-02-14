@@ -1,0 +1,12 @@
+title: Wanderer's Detour
+description: A blog about the paths less taken
+baseurl: ""
+url: ""
+
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
