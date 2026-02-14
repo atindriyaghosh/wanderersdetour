@@ -1,7 +1,7 @@
 title: Wanderer's Detour
 description: A blog about the paths less taken
-baseurl: ""
-url: ""
+baseurl: "/wanderersdetour"
+url: "https://atindriyaghosh.github.io"
 
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
